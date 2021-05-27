@@ -9,22 +9,23 @@
   <g>
     <ellipse style="fill: #ffffff" cx="573.5" cy="139" rx="58.5" ry="18"/>
     <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="573.5" cy="139" rx="58.5" ry="18"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="573.5" y="143">fechaGasto</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="573.5" y="143">fechaGasto</text>
   </g>
   <g>
     <ellipse style="fill: #ffffff" cx="628.55" cy="214.9" rx="70.05" ry="18"/>
     <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="628.55" cy="214.9" rx="70.05" ry="18"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="628.55" y="218.9">conceptoGasto</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="628.55" y="218.9">conceptoGasto</text>
   </g>
   <g>
     <ellipse style="fill: #ffffff" cx="462.95" cy="92.8" rx="46.95" ry="18"/>
     <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="462.95" cy="92.8" rx="46.95" ry="18"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="462.95" y="96.8">idGasto</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="462.95" y="96.8">idGasto</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="436" y1="100.8" x2="489.9" y2="100.8"/>
   </g>
   <g>
     <ellipse style="fill: #ffffff" cx="600.7" cy="335.7" rx="66.2" ry="18"/>
     <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="600.7" cy="335.7" rx="66.2" ry="18"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="600.7" y="339.7">importeGasto</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="600.7" y="339.7">importeGasto</text>
   </g>
   <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="432.892" y1="211.996" x2="458.253" y2="111.425"/>
   <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="465.2" y1="231" x2="552.817" y2="156.57"/>
